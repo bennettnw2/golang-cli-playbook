@@ -1,3 +1,3 @@
 package module7
 
-//go:generate goimports -w module7_code.got.bak
+//go:generate goimports -w module7_code.go
